@@ -112,12 +112,12 @@ Should you want to contribute to the toolpac yourself, please refer to the
   </tr>
   <tr>
     <td>taunus-medusa_instrument</th>
-    <td><a href="https://github.com/AtmosphericAngels/medusa_instrument">Repo</a></td>
+    <td><a href="https://github.com/AtmosphericAngels/taunus-medusa_instrument">Repo</a></td>
     <td>track changes in runfiles, tune and devices folders</td>  
   </tr>
   <tr>
     <td>taunus-medusa_config</th>
-    <td><a href="https://github.com/AtmosphericAngels/medusa_config">Repo</a></td>
+    <td><a href="https://github.com/AtmosphericAngels/taunus-medusa_config">Repo</a></td>
     <td>gcwerks config folder </td>  
   </tr>
 </table> 
