@@ -1,4 +1,4 @@
-## Welcome to the Frankfurt atmospheric trace gas group's GitHub page👋
+## Welcome to the GUF atmospheric trace gas group's GitHub page👋
 
 <img width="1200" height="240" alt="AG_Tracer_Banner_1200_240" src="https://github.com/user-attachments/assets/a72429b5-505b-4a64-9924-ee89287d84d3" />
 
