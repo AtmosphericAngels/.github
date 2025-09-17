@@ -125,13 +125,13 @@ Should you want to contribute to the toolpac yourself, please refer to the
 #### Taunus Observatory other
 <table>
   <tr>
-    <td>picarro5310_data</th>
-    <td><a href="https://github.com/AtmosphericAngels/picarro5310_data">Repo</a></td>
+    <td>taunus-picarro5310_data</th>
+    <td><a href="https://github.com/AtmosphericAngels/taunus-picarro5310_data">Repo</a></td>
     <td>Picarro 5310</td>  
   </tr>
   <tr>
-    <td>picarro2401_data</th>
-    <td><a href="https://github.com/AtmosphericAngels/picarro2401_data">Repo</a></td>
+    <td>taunus-picarro2401_data</th>
+    <td><a href="https://github.com/AtmosphericAngels/taunus-picarro2401_data">Repo</a></td>
     <td>Picarro 2401</td>  
   <tr>
     <td>taunus_ecd_integrator</th>
@@ -212,8 +212,8 @@ Should you want to contribute to the toolpac yourself, please refer to the
     <td>scripts related to gccompare and also some scripts related to other netcdf files</td>  
   </tr>
   <tr>
-    <td><del>217-tmp</del></th>
+    <td>217-tmp</th>
     <td><a href="https://github.com/AtmosphericAngels/217-tmp">Repo</a></td>
-    <td>[Remove] <del>test github-desktop</del> </td>  
+    <td>test github-desktop</td>  
   </tr>
 </table> 
